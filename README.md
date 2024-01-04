@@ -11,11 +11,11 @@ Verify the integrity of your data by comparing hash values.
 Ensure that files or text haven't been tampered with using cryptographic hash functions.
 
 #### Hash Length:
-Quickly determine the length of hash values .
+Quickly determine the length of hash values.
 
 #### Hash Type:
 Identify the hash algorithm used in a given hash value.
-Supports a variety of hash algorithms, including MD5, SHA-1, SHA-224, SHA-256 .
+Supports a variety of hash algorithms, including MD5, SHA-1, SHA-224, SHA-256.
 
 #### Text Encryption:
 Securely encrypt sensitive text using advanced encryption algorithms.
@@ -23,6 +23,7 @@ Choose from a range of encryption methods to suit your security requirements.
 
 #### Hash Decryption:
 Decrypt hashed values, allowing you to retrieve the original information.
+Also, feel free to change the wordlist if it doesn't match your needs.
 ***
 ## Usage:
 
